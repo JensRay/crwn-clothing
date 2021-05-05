@@ -1,5 +1,5 @@
 # Crwn Clothing
-A e-commerce platform for buying clothes
+An e-commerce platform for buying clothes
 
 https://crwn-clothing-react-jensray.herokuapp.com/
 
